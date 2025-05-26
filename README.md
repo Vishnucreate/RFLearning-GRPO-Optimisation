@@ -1,10 +1,5 @@
 # Reinforcement Learning with GRPO Optimization
 
-<p align="center">
-  <img src="images/grpo_banner.png" alt="GRPO Optimization Banner" width="80%">
-</p>
-
----
 
 ## 📖 Table of Contents
 
